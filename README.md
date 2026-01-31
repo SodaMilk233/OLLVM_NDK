@@ -1,4 +1,4 @@
-# 🛡️ OLLVM_NDK for Termux
+# 🛡️ OLLVM_NDK
 
 ## 📖 简介
 **OLLVM_NDK** 是专为 **Termux** 环境优化定制的 Android NDK，集成了 **OLLVM（Obfuscator-LLVM）** 混淆编译器。此版本让您在 Android 设备上直接进行 C/C++ 代码的混淆编译，提升应用安全性。
