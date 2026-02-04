@@ -7,12 +7,13 @@
 - ✅ **轻量便携** - 无需复杂配置
 - ✅ **开箱即用** - 解压即可开始使用
 - ✅ **集成混淆** - 内置代码混淆功能
-- ✅ **双版本支持** - 提供 NDK r28c 和 r29 两个版本
+- ✅ **版本支持** - 提供r27c r28c r29多个版本
 
 ## 📦 可用版本
 
 | 发布名称 | 版本号 | 文件大小 |
 |----------|--------|----------|
+| android-ndk-r27c | 27.2.12479018 | ~2.8GB |
 | android-ndk-r28c | 28.2.13676358 | ~4.7GB |
 | android-ndk-r29 | 29.0.14206865 | ~4.3GB |
 
@@ -21,7 +22,7 @@
 ### 1. 下载和解压
 ```bash
 # 下载 NDK 包（示例）
-# wget https://github.com/SodaMilk233/OLLVM_NDK/releases/download/android-ndk-r28c/android-ndk-r28c.tar.xz
+# wget https://github.com/SodaMilk233/OLLVM_NDK/releases/download/android-ndk-r29/android-ndk-r29.tar.xz
 
 # 解压 NDK
-tar -xJvf android-ndk-r28c.tar.xz
+tar -xJvf android-ndk-r29.tar.xz
